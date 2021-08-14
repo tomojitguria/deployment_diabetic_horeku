@@ -13,3 +13,4 @@ seaborn==0.11.1
 six==1.16.0
 wincertstore==0.2
 gunicorn
+flask
